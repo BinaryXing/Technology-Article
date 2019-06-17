@@ -19,6 +19,13 @@ _你也 **组合** 这些符号_
 
 ~~这个文字将会被横线删除~~
 
+**_This text is extremely important_**
+
++ aaaa
++ BBBBB
++ ddddd
+- DDDD
+- EEEE
 
 * Item 1
 * Item 2
@@ -32,7 +39,7 @@ _你也 **组合** 这些符号_
 4. Item 3a
 5. Item 3b
 
-![GitHub Logo](http://b.hiphotos.baidu.com/image/h%3D300/sign=77d1cd475d43fbf2da2ca023807fca1e/9825bc315c6034a8ef5250cec5134954082376c9.jpg)
+![GitHub Logo](/c88e1a44902086f8f39821d9efbc275c.png)
 
 [GitHub](http://github.com)
 
